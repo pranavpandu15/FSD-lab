@@ -1,7 +1,8 @@
 # program1
 
 ## Aim of the program
-A html program to create frameset
+Create a webpage from the following picture using frameset
+![input](question.jpg)
 
 ### output
 ![output](out.png)
